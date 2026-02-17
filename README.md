@@ -4,7 +4,12 @@ Uma página de links pessoais inspirada no Linktree, desenvolvida com **HTML, CS
 
 O objetivo do projeto foi praticar manipulação de DOM, organização de código e construção de interfaces modernas sem uso de frameworks.
 
+
+
+
 ---
+
+
 
 ## 📸 Preview
 
@@ -16,6 +21,9 @@ O objetivo do projeto foi praticar manipulação de DOM, organização de códig
 
 ---
 
+
+
+
 ## ✨ Funcionalidades
 
 - Alternância entre modo claro e escuro
@@ -25,7 +33,13 @@ O objetivo do projeto foi praticar manipulação de DOM, organização de códig
 - Estrutura organizada e escalável
 - Código sem dependências externas
 
+
+
+
 ---
+
+
+
 
 ## 🛠 Tecnologias
 
@@ -34,7 +48,13 @@ O objetivo do projeto foi praticar manipulação de DOM, organização de códig
 - JavaScript (Vanilla JS)
 - Google Fonts (Inter)
 
+
+
+
 ---
+
+
+
 
 ## 🧠 Conceitos aplicados
 
