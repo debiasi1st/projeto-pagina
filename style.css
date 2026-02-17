@@ -115,8 +115,16 @@ body {
   animation: slide-back 0.5s forwards;
 }
 
+.switch_button button:hover {
+  outline: 6px solid rgba(156, 156, 156, 0.5);
+}
+
 .light .switch_button button {
   animation: slide-in 0.5s forwards;
+}
+
+.light .switch_button button:hover {
+  outline: 6px solid rgba(156, 156, 156, 0.5);
 }
 
 .switch_button button img {
