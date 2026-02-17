@@ -58,9 +58,9 @@ body {
 }
 
 .container {
-  width: 360px;
-  margin: 0 auto;
-  margin-top: 40px;
+  max-width: 588px;
+  width: 100%;
+  margin: 40px auto 0;
 }
 
 .profile {
@@ -133,7 +133,7 @@ body {
 }
 
 .list {
-  margin-top: 24px;
+  margin: 24px;
 }
 
 .list ul {
@@ -162,7 +162,7 @@ body {
 }
 
 .social {
-  margin-top: 32px;
+  margin-top: auto;
 }
 
 .social ul {
