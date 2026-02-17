@@ -8,8 +8,11 @@ O objetivo do projeto foi praticar manipulação de DOM, organização de códig
 
 ## 📸 Preview
 
-<img src="(./assets/preview-dark.png)">
-<img src="(./assets/preview-light.png)">
+
+<img width="749" height="927" alt="preview-dark" src="https://github.com/user-attachments/assets/dbeeef06-e0f5-44b2-98f5-2f28fa44d4cd" />
+
+<img width="751" height="926" alt="preview-light" src="https://github.com/user-attachments/assets/4e403b9c-fed0-4dc1-be29-96ff76fafc87" />
+
 
 ---
 
